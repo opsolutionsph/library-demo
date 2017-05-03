@@ -1,0 +1,22 @@
+PODS:
+  - couchbase-lite-ios (1.3.1):
+    - couchbase-lite-ios/SQLite (= 1.3.1)
+  - couchbase-lite-ios/SQLCipher (1.3.1)
+  - couchbase-lite-ios/SQLite (1.3.1)
+  - DDDKeychainWrapper (1.0.0)
+  - FDKeychain (1.3.0)
+
+DEPENDENCIES:
+  - couchbase-lite-ios (= 1.3.1)
+  - couchbase-lite-ios/SQLCipher (= 1.3.1)
+  - DDDKeychainWrapper (~> 1.0)
+  - FDKeychain (~> 1.3)
+
+SPEC CHECKSUMS:
+  couchbase-lite-ios: e4672e9c623e31584602c0300c299c363acebb05
+  DDDKeychainWrapper: e681a4daba6448786fa83b4941f58102a33b1897
+  FDKeychain: bd010f28f97ffe7068b3421b77d162b5c2531d61
+
+PODFILE CHECKSUM: 11dcd4301353439cfaa5bb16da77ddc480502ff8
+
+COCOAPODS: 1.1.0.rc.2
